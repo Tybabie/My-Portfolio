@@ -107,7 +107,6 @@ display: none;
     }
     #profile-picture{
         display: none;
-        margin-top: 25px;
     }
     #profile-picture img{
         width: 18em;
@@ -153,12 +152,11 @@ justify-content: center;
 display: inline-block;
     }
     #profile-picture{
-        position: relative;
         display: block;
     }
  section{
      padding-top: 15vh;
-     height: 95vh;
+     height: 100vh;
      padding-left: 0px;
  }
 }   
